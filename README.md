@@ -1,9 +1,4 @@
 # Hi there, I'm Trung 👋
-## My activities
-**Leet Code** <br/>
-![LeetCode Stats](https://leetcode.card.workers.dev/trunglq?theme=unicorn&font=source_code_pro&extension=null)
-
-## My skills
 <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width="100px" height="100px"/> <img src="https://nodejs.org/static/logos/nodejsDark.svg" width="100px" height="100px"/>
 <!--
 **trungluongwww/trungluongwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
